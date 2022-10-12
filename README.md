@@ -30,3 +30,12 @@
 ```
 
 * Instala storybook na app
+ 
+ ``` html
+
+    npm run storybook
+
+
+ ```
+ 
+ * roda o storybook
