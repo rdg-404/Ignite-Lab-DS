@@ -13,3 +13,12 @@
 * postcss  traduz os css para o react
 
 * autoprefixer configuração de funcionamento em todos os navegadores
+
+
+``` css
+
+    npx tailwind init -p
+
+```
+
+* inicia o tailwind na app
