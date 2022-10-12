@@ -4,7 +4,11 @@ module.exports = {
     './src/**/*.tsx', //arquivos que irao receber estilização
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: 'Inter, sans-serif',
+      }
+    },
   },
   plugins: [],
 }
