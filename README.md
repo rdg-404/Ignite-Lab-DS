@@ -22,3 +22,11 @@
 ```
 
 * inicia o tailwind na app
+
+``` css
+
+   npx sb init --builder @storybook/builder-vite --use-npm
+
+```
+
+* Instala storybook na app
