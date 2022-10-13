@@ -39,3 +39,13 @@
  ```
  
  * roda o storybook
+ 
+ 
+  ``` html
+
+    npm install @storybook/addon-a11y
+
+
+ ```
+ 
+ Adiciona testes de [Acessibilidade](https://storybook.js.org/addons/@storybook/addon-a11y) ao Storybook
